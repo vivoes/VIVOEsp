@@ -42,5 +42,5 @@ Esta lista es un lugar donde puedes:
 ##### [vivo-imp-issues](http://lists.sourceforge.net/lists/listinfo/vivo-imp-issues)  
 ¿Implementar VIVO por primera vez? ¿Actualizando a la última versión? 
 Esta lista reúne a los implementadores para ayudar a indentificar y resolver preguntas
-partiendo desde la instalación a las mejores prácticas
+partiendo desde la instalación a las mejores prácticas.
 
