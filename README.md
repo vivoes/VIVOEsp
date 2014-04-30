@@ -1,42 +1,46 @@
-# VIVO: Connect, Share, Discover
+# VIVO: Conecta, Comparte, Descubre
 
-VIVO is an open source semantic web tool for research discovery -- finding people and the research they do.
+VIVO es una herramienta de fuente abierta que utiliza web semántica para la investigación y descubrimiento -- buscando personas y las investigaciones que hace cada una de ellas.
 
-VIVO supports editing, searching, browsing and visualizing research activity in order to discover people, programs, facilities, funding, scholarly works and events. VIVO's search returns results faceted by type for rapid retrieval of desired information across disciplines at one institution or, through a prototype at vivosearch.org, across multiple distributed institutions. 
+VIVO soporta edición, búsqueda, navegación y visualización en la actividad de investigación con el fin de encontrar personas, programas, instalaciones, financiación, obras y eventos académicos. La búsqueda en VIVO retorna resultados facetados por tipo para una recuperación rapida de la información deseada en todas las disciplinas de una institución o a través de un prototipo en vivosearch.org que realiza búsquedas en multiples instituciones.
 
-## Resources
 
-### Information center at VIVOWEB
+## Recursos
+
+### Página principal de VIVOWEB
 http://vivoweb.org/
 
-### DuraSpace Wiki:
-https://wiki.duraspace.org/display/VIVO/
+### Wiki en DuraSpace:
+https://wiki.duraspace.org/pages/viewpage.action?pageId=34662505
 
-## Contact us
-There are several ways to contact the VIVO community. 
-Whatever your interest, we would be pleased to hear from you.
+## Contáctanos
+Hay varias maneras de contactar a la comunidad VIVO. 
+Cualquiera que sea tu interés, estaremos encantados de escucharte.
 
-#### Contact form: 
+#### Formulario de contacto: 
 http://vivoweb.org/contact
 
-#### Mailing lists:
+#### Listas de correo:
 ##### [vivo-dev-all](http://lists.sourceforge.net/lists/listinfo/vivo-dev-all) 
-The best place to get your hands dirty in the VIVO Project. 
-Developers and implementers frequent this list to get the latest on feature design, 
-development planning, and testing.
+El mejor lugar para envolverte en el proyecto VIVO. 
+Desarrolladores e implementadores frecuentan esta lista para obtener lo último en carácteristicas de diseño,
+planificación del desarrollo y pruebas.
+
+
 
 ##### [vivo-ontology](http://lists.sourceforge.net/lists/listinfo/vivo-ontology)  
-The VIVO-ISF ontology serves as the data model for the VIVO application as well as an 
-independent ontology for representing researchers in the context of their 
-experience, outputs, interests, accomplishments, and associated institutions. 
-This list is a place where you can 
-* raise modeling requirements, 
-* share your domain expertise to improve or extend the ontology, 
-* discuss the technical details of the design of the VIVO-ISF ontology, 
-* share general ontology topics and news.
+La ontología VIVO-ISF sirve como el modelo de datos para la aplicación VIVO así como una:
+Ontología independiente para la representación de los investigadores en el contexto de su 
+experiencia, salidas, intereses, logros e instituciones asociadas. 
+Esta lista es un lugar donde puedes: 
+* Elevar los requisitos del modelo, 
+* Compartir tu experiencia en el campo para mejorar o ampliar la ontología, 
+* Discutir los detalles técnicos del diseño de la ontología VIVO-ISF, 
+* Compartir temas de ontología general, y noticias.
+
 
 ##### [vivo-imp-issues](http://lists.sourceforge.net/lists/listinfo/vivo-imp-issues)  
-Implementing VIVO for the first time? Upgrading to the latest version? 
-This list brings implementers together to help identify and solve questions 
-ranging from installation to best practices.
+¿Implementar VIVO por primera vez? ¿Actualizando a la última versión? 
+Esta lista reúne a los implementadores para ayudar a indentificar y resolver preguntas
+partiendo desde la instanlación a las mejores prácticas
 
